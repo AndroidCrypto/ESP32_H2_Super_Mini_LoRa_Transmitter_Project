@@ -12,7 +12,7 @@ These individual tutorials are supported by a comprehensive resource where all p
 materials such as pinouts and board schematics here. The following information is available (or will be provided soon):
 
 - Overview tutorial "**[ESP32-H2 Super Mini-Small form factor, big impact (LoRa, ePaper, environment sensor, and battery powered and monitored)](https://medium.com/@androidcrypto/esp32-h2-super-mini-small-form-factor-big-impact-lora-epaper-environment-sensor-and-battery-bcd469ee633a)**"
-- "**Use the onboard LEDs on an ESP32-H2 Super Mini Development Board**" <soon>
+- "**Use the onboard LEDs on an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/use-the-onboard-leds-on-an-esp32-h2-super-mini-development-board-66a21218b809
 - "**Use an SSD1306 OLED display with an ESP32-H2 Super Mini Development Board**"" <soon>
 - "**Use an SHT41 Environment Sensor with an ESP32-H2 Super Mini Development Board and get indoor temperature and humidity**"" <soon>
 - "**Use a MAX17043 battery voltage meter with an ESP32-H2 Super Mini Development Board and get the battery voltage of your lithium battery and its remaining capacity**"" <soon>

@@ -9,7 +9,7 @@ can transmit data over long distances.
 These individual tutorials are supported by a comprehensive resource where all programs and libraries are stored together. I have also saved supplementary 
 materials such as pinouts and board schematics here. The following information is available (or will be provided soon):
 
-- Overview tutorial "**ESP32-H2 Super Mini-Small form factor, big impact (LoRa, ePaper, environment sensor, and battery powered and monitored)**"
+- Overview tutorial "**[ESP32-H2 Super Mini-Small form factor, big impact (LoRa, ePaper, environment sensor, and battery powered and monitored)](https://medium.com/@androidcrypto/esp32-h2-super-mini-small-form-factor-big-impact-lora-epaper-environment-sensor-and-battery-bcd469ee633a)**"
 - "**Use the onboard LEDs on an ESP32-H2 Super Mini Development Board**" <soon>
 - "**Use an SSD1306 OLED display with an ESP32-H2 Super Mini Development Board**"" <soon>
 - "**Use an SHT41 Environment Sensor with an ESP32-H2 Super Mini Development Board and get indoor temperature and humidity**"" <soon>

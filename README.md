@@ -6,7 +6,7 @@ can transmit data over long distances.
 
 ### Please note: this is an ongoing project, and I will update this repository accordingly when new tutorials are available, please be patient in the meantime.
 
-![Image 1](./images/heltec_wl_v2_ccs811_01_600w.png)
+![Image 1](./images/esp32_h2_sm_front_back.png)
 
 These individual tutorials are supported by a comprehensive resource where all programs and libraries are stored together. I have also saved supplementary 
 materials such as pinouts and board schematics here. The following information is available (or will be provided soon):

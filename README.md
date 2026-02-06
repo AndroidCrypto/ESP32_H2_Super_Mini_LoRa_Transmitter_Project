@@ -31,7 +31,7 @@ I'm including them in the subfolder "Libraries".
 
 ### Sketches for the tutorials
 
-- Find the "Onboard LEDs" sketch in **Esp32_H2_SM_OnboardLeds_v02** folder
+- Find the "Onboard LEDs" sketch in **[Esp32_H2_SM_OnboardLeds_v02](./Esp32_H2_SM_OnboardLeds_v02)** folder
 
 
 ## Development Environment (Arduino)

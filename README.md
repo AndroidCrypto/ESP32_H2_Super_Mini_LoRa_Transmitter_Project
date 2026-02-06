@@ -6,6 +6,8 @@ can transmit data over long distances.
 
 ### Please note: this is an ongoing project, and I will update this repository accordingly when new tutorials are available, please be patient in the meantime.
 
+![Image 1](./images/heltec_wl_v2_ccs811_01_600w.png)
+
 These individual tutorials are supported by a comprehensive resource where all programs and libraries are stored together. I have also saved supplementary 
 materials such as pinouts and board schematics here. The following information is available (or will be provided soon):
 
@@ -27,5 +29,15 @@ The additional material is located in the subfolder "Material":
 The code of each sketch is in sepate folders. All libraries used within the sketches should get installed with the Arduino Library Manager, but in case of network or other problems, 
 I'm including them in the subfolder "Libraries".
 
+### Sketches for the tutorials
+
+- Find the "Onboard LEDs" sketch in **Esp32_H2_SM_OnboardLeds_v02** folder
+
+
+## Development Environment (Arduino)
+````plaintext
+Arduino IDE Version 2.3.6 (Windows)
+arduino-esp32 boards Version 3.3.5 (https://github.com/espressif/arduino-esp32) that is based on Espressif ESP32 Version 5.5.1
+````
 
 Last update: February, 6 th. 2026

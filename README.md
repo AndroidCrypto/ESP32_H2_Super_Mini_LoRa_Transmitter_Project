@@ -42,4 +42,4 @@ Arduino IDE Version 2.3.6 (Windows)
 arduino-esp32 boards Version 3.3.5 (https://github.com/espressif/arduino-esp32) that is based on Espressif ESP32 Version 5.5.1
 ````
 
-Last update: February, 6 th. 2026
+Last update: February, 7 th. 2026

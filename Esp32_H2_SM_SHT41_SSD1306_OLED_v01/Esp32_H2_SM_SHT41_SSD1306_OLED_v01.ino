@@ -1,6 +1,6 @@
 /*
-  This sketch is explained in my tutorial "",
-  published here:
+  This sketch is explained in my tutorial 
+  "Use an SHT41 Environment Sensor with an ESP32-H2 Super Mini Development Board and get indoor temperature and humidity",
   It shows the usage of an external SHT41 environment sensor for temperature and humditiy.
   To get values when powered by a battery, the SSD1306 OLED helper is included
   (see separate tutorial for more information about this helper file).

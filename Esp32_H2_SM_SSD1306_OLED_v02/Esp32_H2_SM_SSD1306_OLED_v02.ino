@@ -1,6 +1,6 @@
 /*
-  This sketch is explained in my tutorial "",
-  published here:
+  This sketch is explained in my tutorial 
+  "Use an SSD1306 OLED display with an ESP32-H2 Super Mini Development Board",
   It shows the usage of an external SSD1306 OLED display with a resolution of 128x64 pixels.
 
   In Arduino, use ESP32H2 Dev Module for compiling and uploading.

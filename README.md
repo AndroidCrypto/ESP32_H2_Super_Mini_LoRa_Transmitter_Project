@@ -13,14 +13,14 @@ materials such as pinouts and board schematics here. The following information i
 
 - Overview tutorial "**[ESP32-H2 Super Mini-Small form factor, big impact (LoRa, ePaper, environment sensor, and battery powered and monitored)](https://medium.com/@androidcrypto/esp32-h2-super-mini-small-form-factor-big-impact-lora-epaper-environment-sensor-and-battery-bcd469ee633a)**"
 - "**Use the onboard LEDs on an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/use-the-onboard-leds-on-an-esp32-h2-super-mini-development-board-66a21218b809
-- "**Use an SSD1306 OLED display with an ESP32-H2 Super Mini Development Board**"" <soon>
-- "**Use an SHT41 Environment Sensor with an ESP32-H2 Super Mini Development Board and get indoor temperature and humidity**"" <soon>
-- "**Use a MAX17043 battery voltage meter with an ESP32-H2 Super Mini Development Board and get the battery voltage of your lithium battery and its remaining capacity**"" <soon>
-- "**Use a UART-interfaced LoRa module with an ESP32-H2 Super Mini Development Board and transmit and receive LoRa packets**"" <soon>
-- "**Use the Deep Sleep mode to reduce power consumption on an ESP32-H2 Super Mini Development Board**"" <soon>
-- "**Run current measurements of the individual modules connected to an ESP32-H2 Super Mini Development Board**"" <soon>
-- "**Build an external circuit to de-energize parts of our setup connected to an ESP32-H2 Super Mini Development Board**"" <soon>
-- the final project: "**ESP32-H2 Super Mini Board with SHT41 sensor, MAX17403 monitored battery, e-paper display and LoRa data transmission**"" <soon>
+- "**Use an SSD1306 OLED display with an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/use-an-ssd1306-oled-display-with-an-esp32-h2-super-mini-development-board-f97dae3a8144
+- "**Use an SHT41 Environment Sensor with an ESP32-H2 Super Mini Development Board and get indoor temperature and humidity**": https://medium.com/@androidcrypto/use-an-sht41-environment-sensor-with-an-esp32-h2-super-mini-development-board-and-get-indoor-4404c4ffa57f
+- "**Use a MAX17043 battery voltage meter with an ESP32-H2 Super Mini Development Board and get the battery voltage of your lithium battery and its remaining capacity**" <soon>
+- "**Use a UART-interfaced LoRa module with an ESP32-H2 Super Mini Development Board and transmit and receive LoRa packets**" <soon>
+- "**Use the Deep Sleep mode to reduce power consumption on an ESP32-H2 Super Mini Development Board**" <soon>
+- "**Run current measurements of the individual modules connected to an ESP32-H2 Super Mini Development Board**" <soon>
+- "**Build an external circuit to de-energize parts of our setup connected to an ESP32-H2 Super Mini Development Board**" <soon>
+- the final project: "**ESP32-H2 Super Mini Board with SHT41 sensor, MAX17403 monitored battery, e-paper display and LoRa data transmission**" <soon>
 
 The additional material is located in the subfolder "Material":
 - the pinout of the ESP32-H2 Super Mini Development board

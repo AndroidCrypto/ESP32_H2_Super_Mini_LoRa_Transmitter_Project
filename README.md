@@ -15,7 +15,7 @@ materials such as pinouts and board schematics here. The following information i
 - "**Use the onboard LEDs on an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/use-the-onboard-leds-on-an-esp32-h2-super-mini-development-board-66a21218b809
 - "**Use an SSD1306 OLED display with an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/use-an-ssd1306-oled-display-with-an-esp32-h2-super-mini-development-board-f97dae3a8144
 - "**Use an SHT41 Environment Sensor with an ESP32-H2 Super Mini Development Board and get indoor temperature and humidity**": https://medium.com/@androidcrypto/use-an-sht41-environment-sensor-with-an-esp32-h2-super-mini-development-board-and-get-indoor-4404c4ffa57f
-- "**Use a MAX17043 battery voltage meter with an ESP32-H2 Super Mini Development Board and get the battery voltage of your lithium battery and its remaining capacity**" <soon>
+- "**Use a MAX17043 battery voltage meter with an ESP32-H2 Super Mini Development Board and get the battery voltage of your lithium battery and its remaining capacity**" https://medium.com/@androidcrypto/use-a-max17043-battery-voltage-meter-with-an-esp32-h2-super-mini-development-board-and-get-the-be9db05756cd
 - "**Use a UART-interfaced LoRa module with an ESP32-H2 Super Mini Development Board and transmit and receive LoRa packets**" <soon>
 - "**Use the Deep Sleep mode to reduce power consumption on an ESP32-H2 Super Mini Development Board**" <soon>
 - "**Run current measurements of the individual modules connected to an ESP32-H2 Super Mini Development Board**" <soon>

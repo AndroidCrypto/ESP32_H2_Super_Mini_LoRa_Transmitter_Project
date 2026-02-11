@@ -34,7 +34,9 @@ I'm including them in the subfolder "Libraries".
 - Find the "Onboard LEDs" sketch in **[Esp32_H2_SM_OnboardLeds_v02](./Esp32_H2_SM_OnboardLeds_v02)** folder
 - Find the "SSD1306 OLED" sketch in **[Esp32_H2_SM_SSD1306_OLED_v02](./Esp32_H2_SM_SSD1306_OLED_v02)** folder
 - Find the "SHT41 Sensor" sketch in **[Esp32_H2_SM_SHT41_Sensor_v02](./Esp32_H2_SM_SHT41_Sensor_v02)** folder
-- Find the "SHT41 Sensor with SSD1306 OLED" sketch in **[Esp32_H2_SM_SHT41_SSD1306_OLED_v01](./Esp32_H2_SM_SHT41_SSD1306_OLED_v01)** folder
+- Find the "SHT41 Sensor with SSD1306 OLED" sketch in **[Esp32_H2_SM_SHT41_SSD1306_OLED_v01](./Esp32_H2_SM_MAX17043_SSD1306_OLED_v03)** folder
+- Find the "MAX17043" sketch in **[Esp32_H2_SM_MAX17043_v03](./Esp32_H2_SM_SHT41_Sensor_v02)** folder
+- Find the "MAX17043 with SSD1306 OLED" sketch in **[Esp32_H2_SM_MAX17043_SSD1306_OLED_v03](./Esp32_H2_SM_MAX17043_SSD1306_OLED_v03)** folder
 
 ## Development Environment (Arduino)
 ````plaintext

@@ -37,6 +37,9 @@ I'm including them in the subfolder "Libraries".
 - Find the "SHT41 Sensor with SSD1306 OLED" sketch in **[Esp32_H2_SM_SHT41_SSD1306_OLED_v01](./Esp32_H2_SM_MAX17043_SSD1306_OLED_v03)** folder
 - Find the "MAX17043" sketch in **[Esp32_H2_SM_MAX17043_v03](./Esp32_H2_SM_SHT41_Sensor_v02)** folder
 - Find the "MAX17043 with SSD1306 OLED" sketch in **[Esp32_H2_SM_MAX17043_SSD1306_OLED_v03](./Esp32_H2_SM_MAX17043_SSD1306_OLED_v03)** folder
+- Find the "WeAct 1.54-inch e-paper" sketch in **[Esp32_H2_SM_WeAct154_Epaper_v01](./Esp32_H2_SM_WeAct154_Epaper_v01)** folder
+- Find the "UART LoRa" sketch in **[Esp32_H2_SM_LoRa_Uart_v01](./Esp32_H2_SM_LoRa_Uart_v012)** folder
+- Find the "UART LoRa with SSD1306 OLED" sketch in **[Esp32_H2_SM_LoRa_Uart_SSD1306_OLED_v01](./Esp32_H2_SM_LoRa_Uart_SSD1306_OLED_v01)** folder
 
 ## Development Environment (Arduino)
 ````plaintext
@@ -44,4 +47,4 @@ Arduino IDE Version 2.3.6 (Windows)
 arduino-esp32 boards Version 3.3.5 (https://github.com/espressif/arduino-esp32) that is based on Espressif ESP32 Version 5.5.1
 ````
 
-Last update: February, 11 th. 2026
+Last update: February, 12 th. 2026

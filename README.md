@@ -21,6 +21,7 @@ materials such as pinouts and board schematics here. The following information i
 - "**Use the Deep Sleep mode to reduce power consumption on an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/use-the-deep-sleep-mode-to-reduce-power-consumption-on-an-esp32-h2-super-mini-development-board-c37c6c85b460
 - "**Run current measurements of the individual modules connected to an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/current-measurements-of-the-individual-modules-of-an-esp32-h2-project-290d676816fa
 - "**Build an external circuit to de-energize parts of our setup connected to an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/lets-build-an-external-circuit-to-de-energize-parts-of-our-esp32-h2-setup-during-deep-sleep-time-a1ec6de43cf7
+- "**ESP32-H2 Super Mini LoRa UART Module Receiver**": <soon>
 - the final project: "**ESP32-H2 Super Mini Board with SHT41 sensor, MAX17403 monitored battery, e-paper display and LoRa data transmission**" <soon>
 
 The additional material is located in the subfolder "Material":
@@ -42,11 +43,12 @@ I'm including them in the subfolder "Libraries".
 - Find the "UART LoRa" sketch in **[Esp32_H2_SM_LoRa_Uart_v01](./Esp32_H2_SM_LoRa_Uart_v012)** folder
 - Find the "UART LoRa with SSD1306 OLED" sketch in **[Esp32_H2_SM_LoRa_Uart_SSD1306_OLED_v01](./Esp32_H2_SM_LoRa_Uart_SSD1306_OLED_v01)** folder
 - Find the "Deep Sleep" sketch in **[Esp32_H2_SM_DeepSleep_v01](./Esp32_H2_SM_DeepSleep_v01)** folder
+- Find the "Advanced Receiver" sketch in **[Esp32_H2_SM_LoRa_Uart_Receiver_v01](./Esp32_H2_SM_LoRa_Uart_Receiver_v01)** folder
 
 ## Development Environment (Arduino)
 ````plaintext
-Arduino IDE Version 2.3.6 / 2.3.7 (Windows)
-arduino-esp32 boards Version 3.3.5 / 3.3.6 (https://github.com/espressif/arduino-esp32) that is based on Espressif ESP32 Version 5.5.1
+Arduino IDE Version 2.3.6 / 2.3.7 / 2.3.8 (Windows)
+arduino-esp32 boards Version 3.3.5 / 3.3.6 / 3.3.7 (https://github.com/espressif/arduino-esp32) that is based on Espressif ESP32 Version 5.5.1
 ````
 
-Last update: February, 23 rd. 2026
+Last update: February, 28 th. 2026

@@ -4,7 +4,7 @@ This repository accompanies a large project centered around the small ESP32-H2 S
 with the topics SHT41 sensor, MAX17043 battery measuring device, LoRa module, e-paper display and onboard LEDs. The end result is a LoRa transmitter that 
 can transmit data over long distances.
 
-### Please note: this is an ongoing project, and I will update this repository accordingly when new tutorials are available, please be patient in the meantime.
+### Thank you for your patience-the project is now complete.
 
 ![Image 1](./images/esp32_h2_sm_front_back.png)
 

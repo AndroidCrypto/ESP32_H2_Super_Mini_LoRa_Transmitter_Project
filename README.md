@@ -27,9 +27,9 @@ materials such as pinouts and board schematics here. The following information i
 The additional material is located in the subfolder "Material":
 - the pinout of the ESP32-H2 Super Mini Development board
 - the schematic of the ESP32-H2 Super Mini Development board
+- the datasheet of the IRLB3034 N-MOSFET
 
-The code of each sketch is in sepate folders. All libraries used within the sketches should get installed with the Arduino Library Manager, but in case of network or other problems, 
-I'm including them in the subfolder "Libraries".
+The code of each sketch is in sepate folders. All libraries used within the sketches should get installed with the Arduino Library Manager, but in case of network or other problems, I'm including them in the subfolder "Libraries".
 
 ### Sketches for the tutorials
 
@@ -44,6 +44,7 @@ I'm including them in the subfolder "Libraries".
 - Find the "UART LoRa with SSD1306 OLED" sketch in **[Esp32_H2_SM_LoRa_Uart_SSD1306_OLED_v01](./Esp32_H2_SM_LoRa_Uart_SSD1306_OLED_v01)** folder
 - Find the "Deep Sleep" sketch in **[Esp32_H2_SM_DeepSleep_v01](./Esp32_H2_SM_DeepSleep_v01)** folder
 - Find the "Advanced Receiver" sketch in **[Esp32_H2_SM_LoRa_Uart_Receiver_v01](./Esp32_H2_SM_LoRa_Uart_Receiver_v01)** folder
+- Find the "Complete Project" sketch in **[Esp32_H2_SM_LoRa_Transmitter_Final_v05](./Esp32_H2_SM_LoRa_Transmitter_Final_v05)** folder
 
 ## Development Environment (Arduino)
 ````plaintext

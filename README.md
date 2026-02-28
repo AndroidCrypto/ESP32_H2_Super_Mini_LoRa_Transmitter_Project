@@ -21,7 +21,7 @@ materials such as pinouts and board schematics here. The following information i
 - "**Use the Deep Sleep mode to reduce power consumption on an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/use-the-deep-sleep-mode-to-reduce-power-consumption-on-an-esp32-h2-super-mini-development-board-c37c6c85b460
 - "**Run current measurements of the individual modules connected to an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/current-measurements-of-the-individual-modules-of-an-esp32-h2-project-290d676816fa
 - "**Build an external circuit to de-energize parts of our setup connected to an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/lets-build-an-external-circuit-to-de-energize-parts-of-our-esp32-h2-setup-during-deep-sleep-time-a1ec6de43cf7
-- "**ESP32-H2 Super Mini LoRa UART Module Receiver**": <soon>
+- "**ESP32-H2 Super Mini LoRa UART Module Receiver**": https://medium.com/@androidcrypto/esp32-h2-super-mini-lora-uart-module-receiver-00ef3fd467a2
 - the final project: "**ESP32-H2 Super Mini with environment sensor, battery voltage reading, e-paper display, and LoRa transmission module (the complete project)**" <soon>
 
 The additional material is located in the subfolder "Material":

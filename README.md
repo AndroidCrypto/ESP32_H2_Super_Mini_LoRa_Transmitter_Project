@@ -22,7 +22,7 @@ materials such as pinouts and board schematics here. The following information i
 - "**Run current measurements of the individual modules connected to an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/current-measurements-of-the-individual-modules-of-an-esp32-h2-project-290d676816fa
 - "**Build an external circuit to de-energize parts of our setup connected to an ESP32-H2 Super Mini Development Board**": https://medium.com/@androidcrypto/lets-build-an-external-circuit-to-de-energize-parts-of-our-esp32-h2-setup-during-deep-sleep-time-a1ec6de43cf7
 - "**ESP32-H2 Super Mini LoRa UART Module Receiver**": <soon>
-- the final project: "**ESP32-H2 Super Mini Board with SHT41 sensor, MAX17403 monitored battery, e-paper display and LoRa data transmission**" <soon>
+- the final project: "**ESP32-H2 Super Mini with environment sensor, battery voltage reading, e-paper display, and LoRa transmission module (the complete project)**" <soon>
 
 The additional material is located in the subfolder "Material":
 - the pinout of the ESP32-H2 Super Mini Development board
